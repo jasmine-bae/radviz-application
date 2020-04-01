@@ -64,8 +64,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Apply.cs" />
     <Compile Include="Assets\Scripts\Close.cs" />
-    <Compile Include="Assets\Scripts\WindowBase.cs" />
-    <Compile Include="Assets\Scripts\WindowBorder.cs" />
+    <Compile Include="Assets\Scripts\Draggable.cs" />
+    <Compile Include="Assets\Scripts\ViewCube.cs" />
+    <Compile Include="Assets\Scripts\moveCamera3D.cs" />
     <None Include="Assets\ColorVertexStandard.shader" />
     <None Include="Assets\ColorVertexDiffuse.shader" />
     <Reference Include="Unity.Timeline.Editor">
