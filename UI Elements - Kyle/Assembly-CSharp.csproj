@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Apply.cs" />
     <Compile Include="Assets\Scripts\ColorTable.cs" />
     <Compile Include="Assets\Scripts\Draggable.cs" />
+    <Compile Include="Assets\Scripts\GamvNeu.cs" />
     <Compile Include="Assets\Scripts\ViewCube.cs" />
     <Compile Include="Assets\Scripts\moveCamera3D.cs" />
     <None Include="Assets\ColorVertexStandard.shader" />
