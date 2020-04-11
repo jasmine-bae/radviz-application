@@ -27,7 +27,7 @@ public class moveCamera3D : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetMouseButton(0) || Input.GetMouseButton(1))
+        if (Input.GetMouseButton(1))
         {
             transform.Rotate(new Vector3(Input.GetAxis("Mouse Y") * camSens, -Input.GetAxis("Mouse X") * camSens, 0));
             X = transform.rotation.eulerAngles.x;
