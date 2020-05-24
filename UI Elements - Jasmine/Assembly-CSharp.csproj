@@ -63,8 +63,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CursorVals.cs" />
-    <Compile Include="Assets\FreeCam.cs" />
+    <Compile Include="Assets\Scripts\Apply.cs" />
+    <Compile Include="Assets\Scripts\ColorTable.cs" />
+    <Compile Include="Assets\Scripts\CursorVals.cs" />
+    <Compile Include="Assets\Scripts\Draggable.cs" />
+    <Compile Include="Assets\Scripts\FreeCam.cs" />
+    <Compile Include="Assets\Scripts\GamvNeu.cs" />
+    <Compile Include="Assets\Scripts\ThresholdTemp.cs" />
+    <Compile Include="Assets\Scripts\ViewCube.cs" />
+    <Compile Include="Assets\Scripts\moveCamera3D.cs" />
+    <None Include="Assets\ColorVertexStandard.shader" />
+    <None Include="Assets\ColorVertexDiffuse.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jasminebae/ISAACS Spring 2020/radviz-application/UI Elements - Jasmine/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
