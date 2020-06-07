@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb62d754aca5f4e4eb7ba58d2aac5df9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Audiowide
+  fontNames:
+  - Audiowide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74822508c1bb846588c8777eb501e455, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
